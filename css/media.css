@@ -1,0 +1,732 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  /*container  */
+  .container {
+     max-width: 100%;
+     margin: auto;
+  }
+  /* container */
+  /* navbnar area start */
+  .menu ul li a{
+     padding: 5px 0 !important;
+  }
+  /* navbar area ends */
+
+  /* elemenator_element start */
+  #elemenator_element{
+    padding: 15px 0;
+  }
+  .xs_pb{
+     padding-bottom: 10px;
+  }
+  /* elemenator_element ends */
+
+  /* banner area start */
+  .bnr_overlay{
+     padding: 60px 0;   
+  }
+  .bnr_content h2{
+    font-size: 18px;
+    margin-bottom: 11px;
+  }
+ .bnr_content h1{
+    font-size: 22px;
+ }
+  /* banner area ends */
+
+  /* contant area start */
+  .contant_main{
+      margin-bottom: 10px;
+      padding: 40px 40px 33px 14px;
+  }
+  .content_info{
+    padding-left: 40px;
+ }
+  /* contant area ends */
+
+  /* services area start */
+  .ser_heading h1{
+    font-size: 25px;
+  }
+  .ser_info h4 {
+    font-size: 20px;
+}
+.ser_content {
+  height: 350px;
+  padding: 40px 12px 33px 20px;
+  margin-bottom: 10px;
+}
+  /* services area ends */
+
+  /* contact area start */
+  .contact_header {
+    padding-top: 45px;
+    padding-left: 30%;
+  }
+  .contact_header h3{
+    font-size: 17px;
+}
+  .contact_main {
+    padding-top: 15px;
+    padding-bottom: 0px;
+    padding-left: 35%;
+  }
+  .xl_50{
+    padding-bottom: 50px;
+  }
+  /* contact area ends */
+
+  /*  social_link area start */
+  .social_email_header{
+      text-align: center;
+  }
+  .social_header h3 {
+    padding-top: 14px;
+ }
+ .social_media{
+    margin-top: 10px;
+ }
+ .social_email_header, .custom_srarch{
+   padding-top: 0;
+ }
+ .social_email_header{
+     padding-bottom: 25px;
+ }
+ .custom_srarch{
+     padding-left: 15px;
+ }
+ /* .icon_front, .icon_back {
+  height: 82%;
+  font-size: 18px;
+} */
+  /*  social_link area ends */
+
+  /*  footer area start */
+  /* footer p{
+    font-size: 12px;
+  } */
+  .payment_img{
+      padding-top: 20px;
+  }
+  /*  footer area ends */
+}
+/* ------------------------------ */
+/* ------------------------------ */
+/* Other Page area start*/
+/* about_us area start */
+.com_overlay {
+  padding: 80px 0;
+}
+.abs_info{
+  padding: 28px 25px;
+}
+.abs_info h3 {
+  font-size: 25px;
+}
+/* about_us area ends */
+
+/* contact_us page start */
+.contact_us_heading h3 {
+  font-size: 25px;
+}
+.textarea textarea{
+  width: 100%;
+}
+/*  */
+.c_submit_contact_us {
+  margin-top: 35px;
+}
+.con_add_info {
+  padding-left: 30px;
+}
+.con_right_address {
+  height: 187px;
+  box-shadow: 0 0 20px rgb(0 0 0 / 10%);
+}
+/*  */
+.add_info h5 {
+  font-size: 18px;
+}
+.add_icon i {
+  font-size: 22px;
+}
+.contact_right {
+    padding-top: 0px;
+}
+/* contact_us page end*/
+
+/* order page start */
+#order_search {
+  padding: 40px 0;
+}
+.order_search_title h3 {
+  font-size: 22px;
+  padding-bottom: 15px;
+}
+.c_submit {
+  width: 100%;
+}
+.order_pcs_border{
+  border-top: 1px solid #000;
+}
+.order_pcs_info p {
+  padding-top: 45px;
+  font-size: 17px;
+  line-height: 25px;
+}
+.xs_10{
+  padding-bottom: 10px;
+}
+.xs_B_10{
+  padding-bottom: 40px;
+}
+.contact_us_heading h3 {
+  font-size: 20px;
+}
+.textarea textarea{
+  height: 80px;
+}
+.pcs h4 {
+  font-size: 20px;
+  padding-bottom: 25px;
+  font-weight: bold;
+}
+/* order page ends */
+
+
+
+/* Other Page area ends*/
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+   /*container  */
+  .container {
+    max-width: 100%;
+    margin: auto;
+  }
+ /* container */
+
+ /* navbar area start */
+ .menu ul li a{
+  padding: 5px 0 !important;
+ }
+ /* navbar area ends */
+
+ /* elemenator_element start */
+ #elemenator_element{
+  padding: 15px 0;
+ }
+ .xs_pb{
+   padding-bottom: 10px;
+ }
+ /* elemenator_element ends */
+
+  /* banner area start */
+  .bnr_overlay{
+    padding: 90px 65px;   
+  }
+  .bnr_content h2{
+    font-size: 22px;
+    margin-bottom: 16px;
+  }
+  .bnr_content h1{
+    font-size: 27px;
+    margin-bottom: 21px;
+  }
+ /* banner area ends */
+
+ /* contant area start */
+  .contant_main{
+      margin-bottom: 10px;
+  }
+  .content_info{
+    padding-left: 40px;
+  }
+  .content_info h3{
+    font-size: 20px;
+  }
+  .content_info a{
+    font-size: 20px;
+  }
+  /* contant area ends */
+
+  /* services area start */
+
+  /* services area ends */
+  
+  /* contact area start */
+  .contact_header {
+    padding-top: 45px;
+    padding-left: 15%;
+  }
+  .contact_header h3{
+    font-size: 17px;
+}
+  .contact_main {
+    padding-top: 15px;
+    padding-bottom: 0px;
+    padding-left: 15%;
+  }
+  .sm_xl_50{
+    padding-bottom: 50px;
+  }
+  /* contact area ends */
+
+  /*  social_link area start */
+  #social_media{
+    padding: 0 90px;
+  }
+  .social_email_header{
+    text-align: center;
+  }
+  .social_header h3 {
+    padding-top: 17px;
+  } 
+  .social_media{
+    margin-top: 10px;
+  }
+  .social_email_header, .custom_srarch{
+    padding-top: 0;
+  }
+  .social_email_header{
+    padding-bottom: 25px;
+  }
+  .custom_srarch{
+    padding-left: 15px;
+    padding-bottom: 60px;
+  }
+/*  social_link area ends */
+
+/*  footer area start */
+footer{
+  padding: 30px 0;
+}
+footer p{
+  padding-left: 15%;
+}
+.payment_img img{
+  max-width: 14%;
+  padding: 0 2px;
+}
+  .payment_img{
+    padding-top: 20px;
+    padding-left: 8%;
+  }
+/*  footer area ends */
+
+/* contact_us page start */
+/* contact_us page ends */
+/* order page start */
+/* .order_pcs_border{
+  border-top: none;
+} */
+/* order page ends */
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  /*container  */
+  .container {
+    max-width: 95%;
+    margin: auto;
+ }
+ /* container */
+ /* header area start */
+ .header_right{
+   padding-left: 43px;
+ } 
+ /* header area ends */
+
+ 
+  /* elemenator_element start */
+  #elemenator_element{
+    padding: 15px 0;
+  }
+  .xs_pb{
+     padding-bottom: 10px;
+  }
+  /* elemenator_element ends */
+  /* banner area start */
+  .bnr_overlay{
+    padding: 100px 0;   
+ }
+ .bnr_content h2{
+    font-size: 22px;
+    margin-bottom: 7px;
+ }
+.bnr_content h1{
+   font-size: 28px;
+}
+ /* banner area ends */
+
+ /* content area start */
+ .contant_main {
+  padding: 40px 40px 33px 12px;
+}
+ .content_img img{
+   width: 80px;
+ }
+ .content_info{
+  padding-left: 7px;
+}
+ .content_info h3{
+  font-size: 14px;
+  line-height: 18px;
+  margin-bottom: 6px;
+}
+.content_info a{
+  font-size: 14px;
+}
+ /* content area ends */
+
+ /* service area starts */
+ .ser_heading h1{
+  padding-top: 30px;
+  padding-bottom: 35px;
+}
+ .ser_content{
+  height: 350px;
+}
+ /* service area ends */
+ /* contact area start */
+ .contact_header {
+  padding-top: 45px;
+  padding-left: 20%;
+}
+.contact_header h3{
+  font-size: 17px;
+}
+.contact_main {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  padding-left: 20%;
+}
+.sm_xl_50{
+  padding-bottom: 50px;
+}
+/* contact area ends */
+
+/* social_link area start */
+.social_media{
+  padding: 40px 20%;
+}
+.social_email_header{
+  text-align: center;
+}
+.social_header h3 {
+padding-top: 17px;
+}
+/* .social_media{
+margin-top: 10px;
+} */
+.social_email_header, .custom_srarch{
+padding-top: 0;
+}
+.social_email_header{
+ padding-bottom: 25px;
+}
+.custom_srarch{
+ padding-left: 15px;
+}
+/*  social_link area ends */
+ 
+/*  footer area start */
+footer{
+  padding: 30px 0;
+}
+footer p{
+  padding-left: 20%;
+}
+/* .payment_img img{
+  max-width: 14%;
+  padding: 0 2px;
+} */
+/* .con2{
+  padding-top: 36px;
+} */
+/* .con3{
+  text-align: center;
+  padding: 100px 0;
+} */
+  .payment_img{
+    padding-top: 20px;
+    padding-left: 5%;
+  }
+/*  footer area ends */
+/* other page area start */
+/* contact_us area start */
+.con_right_address {
+  padding: 40px 40px 33px 7px;
+}
+.con_add_info{
+  padding-left: 17px
+}
+.con_add_info h5{
+ font-size: 18px;
+}
+.con_add_info p{
+   font-size: 14px;
+}
+/* contact_us area ends */
+/* order area start */
+.order_pcs_border{
+  border-top: none;
+}
+/* order area ends */
+/* other page area ends */
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  /* header area start */
+ .header_right{
+  padding-left: 10px;
+} 
+/* header area ends */
+
+  /* navbar area start */
+  .menu ul li a {
+    padding: 0px 15px !important;
+}
+  /* navbar area ends */
+
+  /* banner area start */
+  .bnr_overlay {
+    padding: 120px 0;
+  }
+  .bnr_content h2 {
+    font-size: 22px;
+    margin-bottom: 9px;
+  }
+  .bnr_content h1 {
+    margin-bottom: 20px;
+    font-size: 26px;
+}
+  /* banner area ends */
+
+  /* content area start */
+ .contant_main {
+  padding: 40px 40px 33px 18px;
+}
+ .content_img img{
+   width: 100px;
+ }
+ .content_info{
+  padding-left: 20px;
+}
+ .content_info h3{
+  font-size: 20px;
+  line-height: 22px;
+  margin-bottom: 6px;
+}
+.content_info a{
+  font-size: 14px;
+}
+ /* content area ends */
+ 
+ /* service area starts */
+ .ser_heading h1{
+  padding-top: 30px;
+  padding-bottom: 35px;
+ }
+ .ser_content {
+  height: 355px;
+  padding: 40px 1px 33px 1px;
+}
+.ser_box {
+  margin-left: 40%;
+}
+ /* service area ends */
+
+ /* social_link area start */
+ .social_media{
+   padding: 30px 25%;
+ }
+ .box_main{
+   margin: 0 8px;
+ }
+ .social_email_header{
+    padding: 15px 35%;
+ }
+ .custom_srarch{
+  height: 170px;
+  padding: 40px 8%;
+ }
+ /* social_link area ends */
+
+ /* other page start */
+/* contact_us area start */
+.con_right_address {
+  height: 146px;
+  padding: 28px 40px 33px 30px;
+}
+.con_add_info{
+  padding-left: 17px
+}
+.con_add_info h5{
+ font-size: 18px;
+}
+.con_add_info p{
+   font-size: 14px;
+}
+/* contact_us area ends */
+/* order area start */
+.textarea textarea{
+  height: 150px;
+}
+.pcs_info {
+  font-size: 16px;
+}
+.contact_left{
+  padding-top: 15px;
+}
+.contact_right {
+  padding-top: 0px;
+  padding-left: 20px;
+}
+.order_pcs_border{
+  border-top: none;
+}
+/* order area ends */
+
+ /* other page ends */
+ 
+}
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /* header area start */
+ .header_right{
+  padding-left: 55px;
+} 
+/* header area ends */
+
+  /* navbar area start */
+  .menu ul li a {
+    padding: 0px 15px !important;
+}
+  /* navbar area ends */
+
+  /* banner area start */
+  .bnr_overlay {
+    padding: 140px 0;
+  }
+  .bnr_content h2 {
+    font-size: 25px;
+    margin-bottom: 9px;
+  }
+  .bnr_content h1 {
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+  /* banner area ends */
+
+  /* content area start */
+ .contant_main {
+  padding: 40px 40px 33px 18px;
+}
+ .content_img img{
+   width: 100px;
+ }
+ .content_info{
+  padding-left: 20px;
+}
+ .content_info h3{
+  font-size: 20px;
+  line-height: 22px;
+  margin-bottom: 6px;
+}
+.content_info a{
+  font-size: 14px;
+}
+ /* content area ends */
+ 
+ /* service area starts */
+ .ser_heading h1{
+  padding-top: 30px;
+  padding-bottom: 35px;
+ }
+ .ser_content {
+  height: 355px;
+  padding: 40px 1px 33px 1px;
+}
+.ser_box {
+  margin-left: 40%;
+}
+ /* service area ends */
+
+ /* social_link area start */
+ /* .social_media{
+   padding: 30px 25%;
+ } */
+ /* .box_main{
+   margin: 0 8px;
+ } */
+ .social_email_header{
+    padding: 35px 15px;
+ }
+ /* .custom_srarch{
+  padding: 40px 8%;
+ } */
+ /* social_link area ends */
+
+ /* other page start */
+
+/* order area start */
+.textarea textarea{
+  height: 160px;
+}
+.pcs_info {
+  font-size: 18px;
+}
+.contact_left{
+  padding-top: 15px;
+}
+.contact_right {
+  padding-top: 0px;
+  padding-left: 20px;
+}
+.order_pcs_border{
+  border-top: none;
+}
+/* order area ends */
+
+ /* other page ends */
+}
+
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+     /* header area start */
+ .header_right{
+  padding-left: 100px;
+} 
+/* header area ends */
+ /* other page start */
+
+/* order area start */
+.textarea textarea{
+  height: 150px;
+}
+.pcs_info {
+  font-size: 20px;
+}
+.contact_left{
+  padding-top: 15px;
+}
+.contact_right {
+  padding-top: 15px;
+  padding-left: 20px;
+}
+.contact_right_address {
+  padding: 23px 30px;
+}
+.order_pcs_border{
+  border-top: none;
+}
+/* order area ends */
+
+ /* other page ends */
+} 
